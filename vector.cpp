@@ -5,7 +5,7 @@
 
 int main(){
 
-        int repetitions = 10; //100, 200000
+        int repetitions = 10; //100, 20000
         int vsize = 10;
 
         std::vector<float> v1(vsize);
